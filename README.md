@@ -2,7 +2,7 @@
 Hey I'm Lou, a Full-Stack HTML / React Software Developer and IT DevOps Engineer 
 </h2>
 
-I enjoy the entire process of building web apps from the backend to the frontend. I honestly just do this for fun.
+I enjoy the entire process of building web apps from the backend to the frontend. 
 
 ## Skillsets and Tools
 
