@@ -50,10 +50,10 @@ I enjoy the entire process of building web apps from the backend to the frontend
 #### My Email 
 
 <a href="mailto:lbryan212@gmail.com">
- <img align="left" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Louis Bryan | Email"/>
+ <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Louis Bryan | Email"/>
 </a>
 <a href="mailto:lbryan212@gmail.com">
- <img align="left" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Louis Bryan | Email"/>
+ <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Louis Bryan | Email"/>
 </a>
 
 <br />
