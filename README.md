@@ -1,12 +1,12 @@
 <h2 align="left">
-Hey I'm Lou, a Full-Stack HTML / React Software Developer and IT DevOps Engineer 
-</h2>
-
 <div align="center">
  <a href="mailto:lbryan212@gmail.com">
    <img src="https://img.shields.io/badge/Looking_for_work-FF4500?style=for-the-badge" alt="Looking for work"/>
  </a>
-</div>
+</div> Hey I'm Lou, a Full-Stack HTML / React Software Developer and IT DevOps Engineer 
+</h2>
+
+
 I enjoy the entire process of building web apps from the backend to the frontend. 
 
 ## Skillsets and Tools
