@@ -4,7 +4,7 @@ Hey I'm Lou, a Full-Stack HTML / React Software Developer and IT DevOps Engineer
 
 I enjoy the entire process of building web apps from the backend to the frontend. I honestly just do this for fun.
 
-## 💼 My Skillsets and Tools
+## Skillsets and Tools
 
 #### Backend Development
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@ I enjoy the entire process of building web apps from the backend to the frontend
 <br />
 
 ***
-## 🤝 Connect with me 📱
+## Connect with me
 
 #### My Socials
 
