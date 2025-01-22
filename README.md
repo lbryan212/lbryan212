@@ -13,7 +13,7 @@ I enjoy the entire process of building web apps from the backend to the frontend
 #### Backend Development
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 #### Frontend Development
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
@@ -32,6 +32,7 @@ I enjoy the entire process of building web apps from the backend to the frontend
 #### Software Development Tools 
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 #### Cloud
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
