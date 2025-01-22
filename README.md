@@ -1,15 +1,13 @@
 <h2 align="left">
-Hey I'm Lou, a Full-Stack HTML / React Software Developer 💻 and AWS Cloud Developer!
+Hey I'm Lou, a Full-Stack HTML / React Software Developer and IT DevOps Engineer 
 </h2>
 
-I enjoy the entire process of building web apps from the backend to the frontend and being able to see and appreciate the entire software development process and how all the pieces come together to form a great software.
+I enjoy the entire process of building web apps from the backend to the frontend. I honestly just do this for fun.
 
 ## 💼 My Skillsets and Tools
 
 #### Backend Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
 #### Frontend Development
@@ -36,15 +34,9 @@ I enjoy the entire process of building web apps from the backend to the frontend
 
 #### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### My Development Setup
-![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Google Firebase](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-#### My Operating System
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br />
 
 ***
