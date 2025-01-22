@@ -6,9 +6,9 @@
 I enjoy the entire process of building web apps from the backend to the frontend. 
 
 ## Skillsets and Tools <div align="center">
- <a href="mailto:lbryan212@gmail.com">
-   <img src="https://img.shields.io/badge/Looking_for_work-FF4500?style=for-the-badge" alt="Open to work"/>
- </a>
+ <<a href="mailto:lbryan212@gmail.com">
+  <img src="https://img.shields.io/badge/Looking_for_work-FF0000?style=for-the-badge" alt="Open to work"/>
+</a>
 
 #### Backend Development
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
