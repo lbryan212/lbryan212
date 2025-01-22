@@ -48,11 +48,11 @@ I enjoy the entire process of building web apps from the backend to the frontend
  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /> 
 </a>
 
-#### My Email 📩
+#### My Email 
 
-<a href="mailto:lbryan212@gmail.com@gmail.com">
+<a href="mailto:lbryan212@gmail.com">
  <img align="left" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Louis Bryan | Email"/>
-</a><span>lbryan212@gmail.com</span>
+</a>
 
 <br />
 
