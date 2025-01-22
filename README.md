@@ -43,7 +43,6 @@ I enjoy the entire process of building web apps from the backend to the frontend
 <a href="https://www.linkedin.com/in/lbryan212/">
  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
-
 <a href="https://twitter.com/lbryan212">
  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /> 
 </a>
