@@ -56,8 +56,8 @@ I enjoy the entire process of building web apps from the backend to the frontend
 
 #### My Email 📩
 <a href="mailto:lbryan212@gmail.com@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gabriel Rockson | Email"/>
-</a><span>gabrielrockson.official@gmail.com</span>
+  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Louis Bryan | Email"/>
+</a><span>lbryan212@gmail.com</span>
 <br />
 
 
