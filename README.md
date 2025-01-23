@@ -17,14 +17,9 @@ I enjoy the entire process of building web apps from the backend to the frontend
 #### Frontend Development
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-000000?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 #### Containerization
