@@ -1,3 +1,7 @@
+<a href="mailto:lbryan212@gmail.com">
+   <img src="https://img.shields.io/badge/Open_to_work-FF0000?style=for-the-badge" alt="Open to work"/>
+</a>
+
 <h2 align="left">
 </div> Hey I'm Lou, a Full-Stack HTML / React Software Developer and IT DevOps Engineer 
 </h2>
@@ -6,9 +10,7 @@
 I enjoy the entire process of building web apps from the backend to the frontend. 
 
 ## Skillsets and Tools <div align="center">
- <a href="mailto:lbryan212@gmail.com">
-   <img src="https://img.shields.io/badge/Open_to_work-FF0000?style=for-the-badge" alt="Open to work"/>
-</a>
+ 
 
 #### Backend Development
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
